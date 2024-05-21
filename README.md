@@ -249,3 +249,6 @@ We have created and saved the trained models to make predictions in the future u
 Thank you for checking out my project :)
 
 Contact me with any enquiries: zawadilois@gmail.com
+
+Author:
+Loyce Zawadi Mumbua
